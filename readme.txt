@@ -7,3 +7,5 @@ test
 switch to a new branch
 merge with recursive not ff
 dev not to be committed test
+dev not to be committed test again
+why dev cant commit
