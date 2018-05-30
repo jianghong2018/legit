@@ -4,4 +4,4 @@ Git has working and stage.
 Patience gives me some quanxian just now.
 weiyang goes out now.
 test
-switch to e new branch
+switch to a new branch
